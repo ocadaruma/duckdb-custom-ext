@@ -7,6 +7,7 @@ An example of custom duckdb extension which runs on duckdb-wasm.
   * rust toolchain
       - wasm32-unknown-emscripten
   * cmake
+  * ccache
 
 Build:
 ```bash
